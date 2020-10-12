@@ -1,0 +1,13 @@
+.top{
+    text-align: center;
+}
+#title{
+    color: blue;
+}
+#image{
+    width: 200px;
+    height: 200px;
+}
+.content{
+    margin-left: 400px;
+}
